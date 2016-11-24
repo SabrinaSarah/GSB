@@ -18,9 +18,12 @@
            <li class="smenu">
               <a href="index.php?uc=etatFrais&action=selectionnerMois" title="Consultation de mes fiches de frais">Mes fiches de frais</a>
            </li>
-	   <li class="smenu">
-              <a href="index.php?uc=etatHistorique&action=selectionnerVisiteurs" title="Consultation de mes fiches de frais">Afficher</a>
-           </li>
+           <li class="smenu">
+              <a href="index.php?uc=affectationTablette&action=affectationTablette" title="Affectations des tablettes">Affectations des tablette</a>
+</li>
+<li class="smenu">
+<a href="index.php?uc=afficherHistorique&action=afficherhistorique" title="Afficher historique pour visiteur"> Afficher historique pour visiteur</a>
+</li>
  	   <li class="smenu">
               <a href="index.php?uc=connexion&action=deconnexion" title="Se déconnecter">Déconnexion</a>
            </li>
