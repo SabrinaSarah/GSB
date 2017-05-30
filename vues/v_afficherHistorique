@@ -1,0 +1,13 @@
+<div class="encadre">
+<table class="listeLegere">
+	<caption>Liste affectation tablette visiteur</caption>
+		<tr>
+                	<th>id</th>
+                	<th>Nom</th>
+                	<th>Prénom</th>
+			<th>Numéro Tablette</th> 
+			<th>OS</th>
+			<th>Date d'affectation</th>                
+             	</tr>
+</table>
+</div>

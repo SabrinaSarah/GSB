@@ -1,11 +1,8 @@
 ﻿    <!-- Division pour le sommaire -->
     <div id="menuGauche">
      <div id="infosUtil">
-    
         <h2>
-    
 </h2>
-    
       </div>  
         <ul id="menuList">
 			<li >
@@ -18,9 +15,6 @@
            <li class="smenu">
               <a href="index.php?uc=etatFrais&action=selectionnerMois" title="Consultation de mes fiches de frais">Mes fiches de frais</a>
            </li>
-          <li class="smenu">
-<a href="index.php?uc=afficherHistorique&action=afficherhistorique" title="Afficher historique pour visiteur"> Afficher historique pour visiteur</a>
-</li>
  	   <li class="smenu">
               <a href="index.php?uc=connexion&action=deconnexion" title="Se déconnecter">Déconnexion</a>
            </li>
